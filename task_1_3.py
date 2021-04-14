@@ -4,8 +4,8 @@
 """
 
 length = 10
-V = length ** 3
-print(V)
+value = length ** 3
+print(value)
 
-SA = 4 * (length ** 2)
-print(SA)
+square = 4 * (length ** 2)
+print(square)
